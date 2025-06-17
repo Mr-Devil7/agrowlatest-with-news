@@ -1,0 +1,440 @@
+{
+  "header": {
+    "home": "Home",
+    "services": "Services",
+    "news": "News",
+    "contact": "Contact",
+    "terms": "Terms",
+    "weather": "Weather Updates"
+  },
+  "hero": {
+    "headline": "Kisan ki Har Zarurat Ka Smart Jawab",
+    "description": "Discover Seeds, Fertilizers, Plants, Weather Updates, Farming News, Tips & More – All in One Place. Compare, Choose, and Grow Smarter – Save Time, Cut Costs by 20%, and Reduce Losses with Agrow.",
+    "view_products": "View Products",
+    "get_started": "Join Agrow",
+    "stats": {
+      "happy_farmers": "1000+",
+      "happy_farmers_label": "Happy Farmers",
+      "cost_savings": "20%",
+      "cost_savings_label": "Cost Savings",
+      "support": "24/7",
+      "support_label": "Support"
+    },
+    "cards": {
+      "whatsapp_marketplace": "WhatsApp Marketplace",
+      "whatsapp_marketplace_sub": "Direct Purchase",
+      "real_time_weather": "Real-Time Weather",
+      "real_time_weather_sub": "Crop Planning",
+      "smart_farming": "Smart Farming",
+      "smart_farming_sub": "Profitable Growth"
+    }
+  },
+  "about": {
+    "title": "About Agrow",
+    "description": "Your trusted farming partner dedicated to making agriculture smarter, simpler, and more profitable for farmers across India.",
+    "subheading": "Grow Smarter with Agrow",
+    "text1": "Access vital farming information on our comprehensive website and get real-time weather updates to plan your crops with confidence. Our platform brings together everything you need to farm smarter and grow your profits.",
+    "highlight": "Through our WhatsApp marketplace, you can directly purchase quality seeds, fertilizers, and plants, saving time and ensuring you get the best for your farm - all in one trusted platform.",
+    "features": {
+      "whatsapp_marketplace": {
+        "title": "WhatsApp Marketplace",
+        "description": "Purchase high-quality seeds, fertilizers, and plants directly through our convenient WhatsApp marketplace at fair prices."
+      },
+      "real_time_updates": {
+        "title": "Real-Time Updates",
+        "description": "Get instant weather updates and essential farming information to help you make informed decisions for your crops."
+      },
+      "local_reach": {
+        "title": "Local Reach",
+        "description": "Providing local support and solutions to farmers across India with region-specific guidance."
+      },
+      "growth_focused": {
+        "title": "Growth Focused",
+        "description": "Helping farmers increase yields while reducing costs and environmental impact through smart farming practices."
+      }
+    }
+  },
+  "offerings": {
+    "title": "Our Offerings",
+    "description": "Discover our comprehensive range of agricultural products designed to support every stage of your farming journey, from seed to harvest.",
+    "seeds": {
+      "title": "Seeds",
+      "description": "Premium quality seeds for various crops with high germination rates and disease resistance."
+    },
+    "fertilizers": {
+      "title": "Fertilizers",
+      "description": "Advanced fertilizer solutions designed to maximize crop yield and soil health."
+    },
+    "plants": {
+      "title": "Plants",
+      "description": "Healthy seedlings and mature plants ready for transplantation and cultivation."
+    },
+    "explore_products": "Explore Products",
+    "cta": {
+      "title": "Ready to Transform Your Farm?",
+      "description": "Browse our complete catalog of agricultural products and find the perfect solutions for your farming needs. Quality guaranteed, expert support included.",
+      "button": "View All Products"
+    }
+  },
+  "mission": {
+    "title": "Our Mission",
+    "description": "Transforming agriculture by making farming simpler, smarter, and more profitable for every farmer across India.",
+    "subheading": "Your Trusted Farming Partner",
+    "text1": "At Agrow, we're dedicated to transforming the lives of India's small and marginal farmers by making farming simpler, smarter, and more profitable. Our easy-to-use platform provides essential farming information and real-time weather updates to help you plan your crops with confidence.",
+    "text2": "Through our WhatsApp marketplace, you can directly purchase high-quality seeds, fertilizers, and plants at fair prices, saving time and ensuring you get the best for your farm. Whether you're preparing for the sowing season or managing your harvest, Agrow is with you every step of the way.",
+    "community": {
+      "title": "Join Our Community",
+      "description": "Join thousands of farmers who are growing smarter with Agrow. Connect with us today and discover how we can help transform your farming journey."
+    },
+    "values": {
+      "supporting_farmers": {
+        "title": "Supporting Small Farmers",
+        "description": "Dedicated to transforming the lives of India's small and marginal farmers through accessible technology."
+      },
+      "easy_access": {
+        "title": "Easy Access",
+        "description": "Simple-to-use website and WhatsApp marketplace that makes farming information and supplies easily accessible."
+      },
+      "trusted_partnership": {
+        "title": "Trusted Partnership",
+        "description": "Your reliable partner every step of the way, from sowing season to harvest management."
+      },
+      "smart_growth": {
+        "title": "Smart Growth",
+        "description": "Helping farmers grow smarter with data-driven insights and quality products at fair prices."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "What Our Farmers Say",
+    "description": "Hear from farmers across India who have transformed their agricultural practices with Agrow's products and services.",
+    "join_cta": "Join thousands of successful farmers across India",
+    "start_journey": "Start Your Journey",
+    "items": [
+      {
+        "name": "Rajesh Kumar",
+        "role": "Wheat & Rice Farmer",
+        "location": "Jaipur, Rajasthan",
+        "text": "Agrow's high-quality seeds and fertilizers have increased my wheat yield by 30%. The WhatsApp ordering system is so convenient, and their weather updates help me plan my irrigation perfectly."
+      },
+      {
+        "name": "Priya Devi",
+        "role": "Organic Vegetable Farmer",
+        "location": "Chennai, Tamil Nadu",
+        "text": "As a woman farmer, Agrow has been incredibly supportive. Their organic fertilizers and expert advice through WhatsApp have helped me grow the healthiest vegetables in my village."
+      },
+      {
+        "name": "Suresh Patel",
+        "role": "Cotton & Sugarcane Farmer",
+        "location": "Udaipur, Rajasthan",
+        "text": "The quality of Agrow's cotton seeds is exceptional. Combined with their real-time weather alerts and farming tips, I've been able to reduce crop losses and increase my profits significantly."
+      }
+    ]
+  },
+  "services": {
+    "title": "Our Products & Services",
+    "description": "Discover our comprehensive range of agricultural products designed to optimize your farming operations and maximize productivity.",
+    "categories": {
+      "insecticides": "Insecticides",
+      "seeds": "Seeds",
+      "fertilizers": "Fertilizers",
+      "plants": "Plants"
+    },
+    "category_descriptions": {
+      "insecticides": "Effective pest control solutions for healthy crop protection",
+      "seeds": "Premium quality seeds for optimal crop yield and growth",
+      "fertilizers": "Organic and chemical fertilizers for enhanced soil nutrition",
+      "plants": "Beautiful plants and saplings for landscaping and gardening"
+    },
+    "showing_products": "Showing {count} products in {category}",
+    "cta": {
+      "title": "Need Custom Solutions?",
+      "description": "We offer customized agricultural solutions tailored to your specific needs. Get in touch with our experts to discuss your requirements.",
+      "button": "Contact Our Experts"
+    }
+  },
+  "news": {
+    "title": "Agricultural News & Insights",
+    "description": "Stay updated with the latest news, trends, and insights from the world of agriculture and farming technology.",
+    "loading": "Loading latest agricultural news...",
+    "categories": {
+      "all": "All News",
+      "technology": "AgriTech",
+      "market": "Market Trends",
+      "weather": "Weather & Climate",
+      "policy": "Policy & Regulations",
+      "sustainability": "Sustainability"
+    },
+    "latest_news": "Latest News",
+    "farming_tips": "Daily Farming Tips",
+    "trending": "Trending",
+    "showing_articles": "Showing {count} articles",
+    "articles": [
+      {
+        "title": "Revolutionary Drone Technology Transforms Indian Agriculture",
+        "summary": "New AI-powered drones are helping farmers monitor crop health, optimize irrigation, and increase yields by up to 25% across various Indian states."
+      },
+      {
+        "title": "Precision Agriculture: IoT Sensors Revolutionize Farming",
+        "summary": "Smart sensors and IoT devices are enabling farmers to monitor soil conditions, moisture levels, and crop health in real-time, leading to more efficient farming practices."
+      },
+      {
+        "title": "Blockchain Technology Ensures Food Traceability",
+        "summary": "New blockchain-based systems are helping farmers track their produce from farm to table, ensuring quality and building consumer trust in agricultural products."
+      },
+      {
+        "title": "Organic Farming Market Sees 40% Growth in Rural India",
+        "summary": "The demand for organic produce continues to rise, creating new opportunities for farmers to transition to sustainable farming practices and premium pricing."
+      },
+      {
+        "title": "Global Commodity Prices Impact Local Farmers",
+        "summary": "International market fluctuations are affecting local crop prices, with farmers adapting their strategies to navigate changing economic conditions."
+      },
+      {
+        "title": "Agricultural Export Opportunities Expand for Small Farmers",
+        "summary": "New trade agreements and digital platforms are opening international markets for small-scale farmers, providing access to global buyers and better prices."
+      },
+      {
+        "title": "Monsoon Forecast Predicts Normal Rainfall for Upcoming Season",
+        "summary": "Meteorological department's latest analysis suggests favorable conditions for kharif crops, with well-distributed rainfall expected across major agricultural regions."
+      },
+      {
+        "title": "Climate-Smart Agriculture Practices Gain Momentum",
+        "summary": "Farmers are increasingly adopting climate-resilient farming techniques to cope with changing weather patterns and ensure sustainable crop production."
+      },
+      {
+        "title": "Extreme Weather Events Challenge Agricultural Planning",
+        "summary": "Unpredictable weather patterns are forcing farmers to rethink traditional farming calendars and adopt more flexible, adaptive agricultural strategies."
+      },
+      {
+        "title": "Government Announces New Subsidies for Smart Irrigation Systems",
+        "summary": "Latest policy changes provide up to 60% subsidies for farmers adopting water-efficient irrigation technologies, promoting sustainable water usage."
+      },
+      {
+        "title": "Agricultural Insurance Schemes Expanded Nationwide",
+        "summary": "New comprehensive crop insurance programs are being rolled out to protect farmers against weather-related losses and market volatility."
+      },
+      {
+        "title": "Digital Agriculture Platforms Receive Government Support",
+        "summary": "Policy initiatives are promoting the adoption of digital farming tools and platforms to modernize agriculture and improve farmer incomes."
+      },
+      {
+        "title": "Climate-Resilient Crop Varieties Show Promise in Drought-Prone Areas",
+        "summary": "Research institutes release new seed varieties that can withstand extreme weather conditions, offering hope for farmers in challenging climates."
+      },
+      {
+        "title": "Regenerative Agriculture Practices Restore Soil Health",
+        "summary": "Sustainable farming methods are helping restore degraded soils while maintaining productivity, creating long-term benefits for both farmers and the environment."
+      },
+      {
+        "title": "Carbon Credit Programs Offer New Revenue Streams for Farmers",
+        "summary": "Environmental initiatives are providing farmers with opportunities to earn additional income through carbon sequestration and sustainable farming practices."
+      }
+    ],
+    "tips": [
+      {
+        "title": "Optimal Irrigation Timing",
+        "description": "Water your crops early morning (5-7 AM) or late evening (6-8 PM) to minimize water loss through evaporation and ensure maximum absorption."
+      },
+      {
+        "title": "Natural Pest Control",
+        "description": "Use neem oil spray and companion planting with marigolds to naturally deter pests without harmful chemicals, protecting both crops and beneficial insects."
+      },
+      {
+        "title": "Soil Health Monitoring",
+        "description": "Test your soil pH every 6 months and add organic compost regularly to maintain optimal nutrient levels and improve soil structure."
+      },
+      {
+        "title": "Harvest Timing",
+        "description": "Monitor crop maturity indicators daily and harvest during cool morning hours to maintain quality and extend storage life of your produce."
+      }
+    ]
+  },
+  "product_card": {
+    "quantity": "Quantity:",
+    "add_to_cart": "Add to Cart",
+    "added": "Added!",
+    "out_of_stock": "Out of Stock"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty.",
+    "start_shopping": "Start shopping!",
+    "subtotal": "Subtotal:",
+    "total": "Total:",
+    "place_order": "Place Order on WhatsApp",
+    "confirm_order": "Confirm Order",
+    "redirect_message": "You'll be redirected to WhatsApp to place your order.",
+    "cancel": "Cancel",
+    "confirm": "Confirm"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "description": "Ready to transform your farming operations? Contact our team of experts to discuss your needs and find the perfect solution for your farm.",
+    "contact_info": "Contact Information",
+    "phone": "Phone",
+    "email": "Email",
+    "whatsapp_community": "WhatsApp Community",
+    "join_community": "Join our farming community",
+    "connect_with_us": "Connect With Us",
+    "whatsapp_support": {
+      "title": "WhatsApp Support",
+      "description": "Get instant support and connect with our team"
+    },
+    "facebook_page": {
+      "title": "Facebook Page",
+      "description": "Follow us for updates and farming tips"
+    },
+    "facebook_community": {
+      "title": "Facebook Community",
+      "description": "Join our farming community group"
+    },
+    "quick_support": {
+      "title": "Quick Support",
+      "description": "Need immediate assistance? Contact us directly via WhatsApp for quick support and real-time communication with our team.",
+      "button": "Chat on WhatsApp"
+    },
+    "form": {
+      "title": "Send us a Message",
+      "name": "Full Name",
+      "name_placeholder": "Enter your full name",
+      "email": "Email Address",
+      "email_placeholder": "Enter your email",
+      "phone": "Phone Number",
+      "phone_placeholder": "Enter your phone number",
+      "message": "Message",
+      "message_placeholder": "Tell us about your needs...",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success_title": "Message Sent!",
+      "success_message": "We'll get back to you soon via WhatsApp."
+    }
+  },
+  "terms": {
+    "title": "Terms of Use",
+    "description": "Please read these terms carefully before using our services.",
+    "last_updated": "Last updated: May 2025",
+    "sections": {
+      "terms_of_service": {
+        "title": "Terms of Service",
+        "content": [
+          "By accessing and using Agrow's website and services, you agree to be bound by these Terms of Use.",
+          "Our services are provided for agricultural and educational purposes only.",
+          "You must be at least 18 years old to use our services or have parental consent.",
+          "All information provided must be accurate and up-to-date."
+        ]
+      },
+      "privacy_data": {
+        "title": "Privacy & Data Protection",
+        "content": [
+          "We collect and process personal data in accordance with applicable privacy laws.",
+          "Your personal information is used solely for service delivery and customer support.",
+          "We implement industry-standard security measures to protect your data.",
+          "We do not sell or share your personal information with third parties without consent."
+        ]
+      },
+      "user_responsibilities": {
+        "title": "User Responsibilities",
+        "content": [
+          "Users must provide accurate information when creating accounts or placing orders.",
+          "Proper use of agricultural equipment is the responsibility of the purchaser.",
+          "Users must comply with local regulations regarding agricultural technology use.",
+          "Any misuse of our products or services may result in account termination."
+        ]
+      },
+      "limitations": {
+        "title": "Limitations & Disclaimers",
+        "content": [
+          "Agrow products are designed to assist farming operations but do not guarantee specific outcomes.",
+          "We are not liable for crop failures or losses due to external factors beyond our control.",
+          "Warranty terms are specific to each product and are detailed in product documentation.",
+          "Our liability is limited to the purchase price of the product or service."
+        ]
+      }
+    },
+    "questions": {
+      "title": "Questions about our Terms?",
+      "description": "If you have any questions about these Terms of Use, please don't hesitate to contact us.",
+      "email_legal": "Email Legal Team",
+      "call_support": "Call Support"
+    },
+    "acknowledgment": "By continuing to use our services, you acknowledge that you have read, understood, and agree to be bound by these Terms of Use."
+  },
+  "footer": {
+    "company": "Company",
+    "about_us": "About Us",
+    "our_mission": "Our Mission",
+    "services": "Services",
+    "contact": "Contact",
+    "products": "Products",
+    "insecticides": "Insecticides",
+    "seeds": "Seeds",
+    "fertilizers": "Fertilizers",
+    "plants": "Plants",
+    "support": "Support",
+    "documentation": "Documentation",
+    "installation_guide": "Installation Guide",
+    "technical_support": "Technical Support",
+    "warranty": "Warranty",
+    "legal": "Legal",
+    "terms_of_use": "Terms of Use",
+    "privacy_policy": "Privacy Policy",
+    "cookie_policy": "Cookie Policy",
+    "gdpr_compliance": "GDPR Compliance",
+    "description": "Agrow is your one-stop app for seeds, fertilizers, plants, weather updates, and more, empowering Indian farmers to grow smarter. Join our community today! 🌾",
+    "rights_reserved": "All rights reserved.",
+    "trademark": "Registered trademark of Agrow"
+  },
+  "weather": {
+    "title": "Weather Updates",
+    "loading": "Loading weather data...",
+    "error": "Unable to load weather data. Please try again later.",
+    "current_weather": "Current Weather",
+    "forecast": "5-Day Forecast",
+    "farming_tips": "🌾 Farming Tips",
+    "humidity": "Humidity",
+    "wind_speed": "Wind Speed",
+    "pressure": "Pressure",
+    "visibility": "Visibility",
+    "feels_like": "Feels like",
+    "uv_index": "UV Index",
+    "last_updated": "Last updated",
+    "tips": {
+      "hot_weather": [
+        "Irrigate early morning or late evening to reduce water loss",
+        "Provide shade for sensitive crops during peak sun hours",
+        "Monitor soil moisture levels more frequently"
+      ],
+      "cold_weather": [
+        "Protect crops from frost using covers or mulching",
+        "Reduce watering frequency as evaporation is lower",
+        "Consider greenhouse cultivation for sensitive plants"
+      ],
+      "rainy_weather": [
+        "Ensure proper drainage to prevent waterlogging",
+        "Monitor for fungal diseases due to high humidity",
+        "Delay fertilizer application until weather clears"
+      ],
+      "windy_weather": [
+        "Secure tall plants and structures against strong winds",
+        "Check irrigation systems for wind damage",
+        "Consider windbreaks for exposed crops"
+      ],
+      "humid_weather": [
+        "Increase ventilation in greenhouses",
+        "Monitor for pest and disease outbreaks",
+        "Adjust watering schedule to prevent overwatering"
+      ],
+      "dry_weather": [
+        "Implement water conservation techniques",
+        "Use mulching to retain soil moisture",
+        "Consider drought-resistant crop varieties"
+      ]
+    }
+  },
+  "language_popup": {
+    "title": "Choose Your Language",
+    "select": "Select Language",
+    "confirm": "Confirm"
+  }
+}
