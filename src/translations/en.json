@@ -171,64 +171,79 @@
     "showing_articles": "Showing {count} articles",
     "articles": [
       {
-        "title": "Revolutionary Drone Technology Transforms Indian Agriculture",
-        "summary": "New AI-powered drones are helping farmers monitor crop health, optimize irrigation, and increase yields by up to 25% across various Indian states."
+        "title": "AI and Machine Learning Transform Modern Agriculture",
+        "summary": "Artificial intelligence and machine learning technologies are revolutionizing farming practices, helping farmers optimize crop yields and reduce resource waste through precision agriculture.",
+        "url": "https://www.fao.org/newsroom/detail/artificial-intelligence-is-a-game-changer-for-the-agrifood-sector/en"
       },
       {
         "title": "Precision Agriculture: IoT Sensors Revolutionize Farming",
-        "summary": "Smart sensors and IoT devices are enabling farmers to monitor soil conditions, moisture levels, and crop health in real-time, leading to more efficient farming practices."
+        "summary": "Smart sensors and IoT devices are enabling farmers to monitor soil conditions, moisture levels, and crop health in real-time, leading to more efficient farming practices.",
+        "url": "https://www.nature.com/articles/s41598-023-35152-w"
       },
       {
         "title": "Blockchain Technology Ensures Food Traceability",
-        "summary": "New blockchain-based systems are helping farmers track their produce from farm to table, ensuring quality and building consumer trust in agricultural products."
+        "summary": "New blockchain-based systems are helping farmers track their produce from farm to table, ensuring quality and building consumer trust in agricultural products.",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0308521X23001853"
       },
       {
-        "title": "Organic Farming Market Sees 40% Growth in Rural India",
-        "summary": "The demand for organic produce continues to rise, creating new opportunities for farmers to transition to sustainable farming practices and premium pricing."
+        "title": "Organic Farming Market Sees Significant Growth in India",
+        "summary": "The demand for organic produce continues to rise, creating new opportunities for farmers to transition to sustainable farming practices and premium pricing.",
+        "url": "https://www.business-standard.com/industry/agriculture/organic-farming-in-india-market-size-growth-trends-and-opportunities-123081500123_1.html"
       },
       {
         "title": "Global Commodity Prices Impact Local Farmers",
-        "summary": "International market fluctuations are affecting local crop prices, with farmers adapting their strategies to navigate changing economic conditions."
+        "summary": "International market fluctuations are affecting local crop prices, with farmers adapting their strategies to navigate changing economic conditions.",
+        "url": "https://www.worldbank.org/en/research/commodity-markets"
       },
       {
         "title": "Agricultural Export Opportunities Expand for Small Farmers",
-        "summary": "New trade agreements and digital platforms are opening international markets for small-scale farmers, providing access to global buyers and better prices."
-      },
-      {
-        "title": "Monsoon Forecast Predicts Normal Rainfall for Upcoming Season",
-        "summary": "Meteorological department's latest analysis suggests favorable conditions for kharif crops, with well-distributed rainfall expected across major agricultural regions."
+        "summary": "New trade agreements and digital platforms are opening international markets for small-scale farmers, providing access to global buyers and better prices.",
+        "url": "https://www.wto.org/english/tratop_e/agric_e/agric_e.htm"
       },
       {
         "title": "Climate-Smart Agriculture Practices Gain Momentum",
-        "summary": "Farmers are increasingly adopting climate-resilient farming techniques to cope with changing weather patterns and ensure sustainable crop production."
+        "summary": "Farmers are increasingly adopting climate-resilient farming techniques to cope with changing weather patterns and ensure sustainable crop production.",
+        "url": "https://www.fao.org/climate-smart-agriculture/en/"
       },
       {
         "title": "Extreme Weather Events Challenge Agricultural Planning",
-        "summary": "Unpredictable weather patterns are forcing farmers to rethink traditional farming calendars and adopt more flexible, adaptive agricultural strategies."
+        "summary": "Unpredictable weather patterns are forcing farmers to rethink traditional farming calendars and adopt more flexible, adaptive agricultural strategies.",
+        "url": "https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-5/"
       },
       {
-        "title": "Government Announces New Subsidies for Smart Irrigation Systems",
-        "summary": "Latest policy changes provide up to 60% subsidies for farmers adopting water-efficient irrigation technologies, promoting sustainable water usage."
+        "title": "Government Announces New Subsidies for Smart Irrigation",
+        "summary": "Latest policy changes provide significant subsidies for farmers adopting water-efficient irrigation technologies, promoting sustainable water usage in agriculture.",
+        "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1940234"
       },
       {
         "title": "Agricultural Insurance Schemes Expanded Nationwide",
-        "summary": "New comprehensive crop insurance programs are being rolled out to protect farmers against weather-related losses and market volatility."
+        "summary": "New comprehensive crop insurance programs are being rolled out to protect farmers against weather-related losses and market volatility.",
+        "url": "https://pmfby.gov.in/"
       },
       {
         "title": "Digital Agriculture Platforms Receive Government Support",
-        "summary": "Policy initiatives are promoting the adoption of digital farming tools and platforms to modernize agriculture and improve farmer incomes."
+        "summary": "Policy initiatives are promoting the adoption of digital farming tools and platforms to modernize agriculture and improve farmer incomes.",
+        "url": "https://agricoop.nic.in/en/divisiontype/agriculture-marketing"
       },
       {
-        "title": "Climate-Resilient Crop Varieties Show Promise in Drought-Prone Areas",
-        "summary": "Research institutes release new seed varieties that can withstand extreme weather conditions, offering hope for farmers in challenging climates."
+        "title": "Climate-Resilient Crop Varieties Show Promise",
+        "summary": "Research institutes release new seed varieties that can withstand extreme weather conditions, offering hope for farmers in challenging climates.",
+        "url": "https://www.cgiar.org/news-events/news/climate-resilient-crops/"
       },
       {
         "title": "Regenerative Agriculture Practices Restore Soil Health",
-        "summary": "Sustainable farming methods are helping restore degraded soils while maintaining productivity, creating long-term benefits for both farmers and the environment."
+        "summary": "Sustainable farming methods are helping restore degraded soils while maintaining productivity, creating long-term benefits for both farmers and the environment.",
+        "url": "https://www.nature.com/articles/s41893-020-0491-z"
       },
       {
-        "title": "Carbon Credit Programs Offer New Revenue Streams for Farmers",
-        "summary": "Environmental initiatives are providing farmers with opportunities to earn additional income through carbon sequestration and sustainable farming practices."
+        "title": "Carbon Credit Programs Offer New Revenue Streams",
+        "summary": "Environmental initiatives are providing farmers with opportunities to earn additional income through carbon sequestration and sustainable farming practices.",
+        "url": "https://www.worldbank.org/en/topic/climatechange/brief/carbon-markets"
+      },
+      {
+        "title": "Vertical Farming Technology Advances in Urban Areas",
+        "summary": "Indoor vertical farming systems are becoming more efficient and cost-effective, offering new possibilities for urban agriculture and year-round production.",
+        "url": "https://www.nature.com/articles/s43016-021-00402-w"
       }
     ],
     "tips": [

@@ -45,210 +45,34 @@ const News: React.FC = () => {
       // Simulate API delay
       await new Promise(resolve => setTimeout(resolve, 1000));
       
-      // Mock news data with real URLs
-      const mockNews: NewsArticle[] = [
-        // Technology articles
-        {
-          id: '1',
-          title: t('news.articles.0.title'),
-          summary: t('news.articles.0.summary'),
-          category: 'technology',
-          date: new Date().toLocaleDateString(),
-          readTime: '3 min',
-          source: 'AgriTech Today',
-          trending: true,
-          url: 'https://www.fao.org/news/story/en/item/1395127/icode/'
-        },
-        {
-          id: '2',
-          title: t('news.articles.1.title'),
-          summary: t('news.articles.1.summary'),
-          category: 'technology',
-          date: new Date(Date.now() - 86400000).toLocaleDateString(),
-          readTime: '4 min',
-          source: 'Tech Agriculture',
-          trending: false,
-          url: 'https://www.nature.com/articles/s41586-023-06394-7'
-        },
-        {
-          id: '3',
-          title: t('news.articles.2.title'),
-          summary: t('news.articles.2.summary'),
-          category: 'technology',
-          date: new Date(Date.now() - 172800000).toLocaleDateString(),
-          readTime: '5 min',
-          source: 'Digital Farming',
-          trending: true,
-          url: 'https://www.sciencedirect.com/science/article/pii/S0308521X23000586'
-        },
-        // Market articles
-        {
-          id: '4',
-          title: t('news.articles.3.title'),
-          summary: t('news.articles.3.summary'),
-          category: 'market',
-          date: new Date(Date.now() - 259200000).toLocaleDateString(),
-          readTime: '5 min',
-          source: 'Farm Business Weekly',
-          trending: false,
-          url: 'https://www.worldbank.org/en/topic/agriculture/overview'
-        },
-        {
-          id: '5',
-          title: t('news.articles.4.title'),
-          summary: t('news.articles.4.summary'),
-          category: 'market',
-          date: new Date(Date.now() - 345600000).toLocaleDateString(),
-          readTime: '6 min',
-          source: 'Agricultural Markets',
-          trending: true,
-          url: 'https://www.oecd.org/agriculture/topics/agricultural-trade/'
-        },
-        {
-          id: '6',
-          title: t('news.articles.5.title'),
-          summary: t('news.articles.5.summary'),
-          category: 'market',
-          date: new Date(Date.now() - 432000000).toLocaleDateString(),
-          readTime: '4 min',
-          source: 'Commodity News',
-          trending: false,
-          url: 'https://www.reuters.com/business/agriculture/'
-        },
-        // Weather articles
-        {
-          id: '7',
-          title: t('news.articles.6.title'),
-          summary: t('news.articles.6.summary'),
-          category: 'weather',
-          date: new Date(Date.now() - 518400000).toLocaleDateString(),
-          readTime: '2 min',
-          source: 'Weather & Agriculture',
-          trending: false,
-          url: 'https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-5/'
-        },
-        {
-          id: '8',
-          title: t('news.articles.7.title'),
-          summary: t('news.articles.7.summary'),
-          category: 'weather',
-          date: new Date(Date.now() - 604800000).toLocaleDateString(),
-          readTime: '3 min',
-          source: 'Climate Agriculture',
-          trending: true,
-          url: 'https://www.nature.com/articles/s41558-023-01661-8'
-        },
-        {
-          id: '9',
-          title: t('news.articles.8.title'),
-          summary: t('news.articles.8.summary'),
-          category: 'weather',
-          date: new Date(Date.now() - 691200000).toLocaleDateString(),
-          readTime: '4 min',
-          source: 'Weather Impact',
-          trending: false,
-          url: 'https://www.fao.org/climate-change/en/'
-        },
-        // Policy articles
-        {
-          id: '10',
-          title: t('news.articles.9.title'),
-          summary: t('news.articles.9.summary'),
-          category: 'policy',
-          date: new Date(Date.now() - 777600000).toLocaleDateString(),
-          readTime: '4 min',
-          source: 'Agricultural Policy Review',
-          trending: true,
-          url: 'https://www.usda.gov/topics/farming/farm-bill'
-        },
-        {
-          id: '11',
-          title: t('news.articles.10.title'),
-          summary: t('news.articles.10.summary'),
-          category: 'policy',
-          date: new Date(Date.now() - 864000000).toLocaleDateString(),
-          readTime: '5 min',
-          source: 'Policy Updates',
-          trending: false,
-          url: 'https://ec.europa.eu/info/food-farming-fisheries/key-policies/common-agricultural-policy_en'
-        },
-        {
-          id: '12',
-          title: t('news.articles.11.title'),
-          summary: t('news.articles.11.summary'),
-          category: 'policy',
-          date: new Date(Date.now() - 950400000).toLocaleDateString(),
-          readTime: '6 min',
-          source: 'Government News',
-          trending: false,
-          url: 'https://www.wto.org/english/tratop_e/agric_e/agric_e.htm'
-        },
-        // Sustainability articles
-        {
-          id: '13',
-          title: t('news.articles.12.title'),
-          summary: t('news.articles.12.summary'),
-          category: 'sustainability',
-          date: new Date(Date.now() - 1036800000).toLocaleDateString(),
-          readTime: '6 min',
-          source: 'Green Farming Journal',
-          trending: false,
-          url: 'https://www.unep.org/explore-topics/food-systems'
-        },
-        {
-          id: '14',
-          title: t('news.articles.13.title'),
-          summary: t('news.articles.13.summary'),
-          category: 'sustainability',
-          date: new Date(Date.now() - 1123200000).toLocaleDateString(),
-          readTime: '5 min',
-          source: 'Sustainable Agriculture',
-          trending: true,
-          url: 'https://www.nature.com/articles/s41893-023-01093-5'
-        },
-        {
-          id: '15',
-          title: t('news.articles.14.title'),
-          summary: t('news.articles.14.summary'),
-          category: 'sustainability',
-          date: new Date(Date.now() - 1209600000).toLocaleDateString(),
-          readTime: '4 min',
-          source: 'Eco Farming',
-          trending: false,
-          url: 'https://www.sciencedirect.com/science/article/pii/S0959652623008289'
-        }
-      ];
+      // Get articles from translation with real URLs
+      const articlesFromTranslation = t('news.articles') as any[];
+      
+      // Mock news data with real URLs from translations
+      const mockNews: NewsArticle[] = articlesFromTranslation.map((article, index) => ({
+        id: (index + 1).toString(),
+        title: article.title,
+        summary: article.summary,
+        category: index < 3 ? 'technology' : 
+                 index < 6 ? 'market' : 
+                 index < 9 ? 'weather' : 
+                 index < 12 ? 'policy' : 'sustainability',
+        date: new Date(Date.now() - (index * 86400000)).toLocaleDateString(),
+        readTime: `${3 + (index % 4)} min`,
+        source: index % 3 === 0 ? 'AgriTech Today' : 
+                index % 3 === 1 ? 'Farm Business Weekly' : 'Agricultural Research',
+        trending: index % 4 === 0,
+        url: article.url
+      }));
 
-      const mockTips: FarmingTip[] = [
-        {
-          id: '1',
-          title: t('news.tips.0.title'),
-          description: t('news.tips.0.description'),
-          category: 'irrigation',
-          icon: '💧'
-        },
-        {
-          id: '2',
-          title: t('news.tips.1.title'),
-          description: t('news.tips.1.description'),
-          category: 'pest_control',
-          icon: '🛡️'
-        },
-        {
-          id: '3',
-          title: t('news.tips.2.title'),
-          description: t('news.tips.2.description'),
-          category: 'soil_health',
-          icon: '🌱'
-        },
-        {
-          id: '4',
-          title: t('news.tips.3.title'),
-          description: t('news.tips.3.description'),
-          category: 'harvest',
-          icon: '🌾'
-        }
-      ];
+      const tipsFromTranslation = t('news.tips') as any[];
+      const mockTips: FarmingTip[] = tipsFromTranslation.map((tip, index) => ({
+        id: (index + 1).toString(),
+        title: tip.title,
+        description: tip.description,
+        category: ['irrigation', 'pest_control', 'soil_health', 'harvest'][index % 4],
+        icon: ['💧', '🛡️', '🌱', '🌾'][index % 4]
+      }));
 
       setNewsArticles(mockNews);
       setFarmingTips(mockTips);
